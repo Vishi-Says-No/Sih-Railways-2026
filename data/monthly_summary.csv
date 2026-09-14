@@ -1,0 +1,5 @@
+tasks_scheduled,tasks_unscheduled,corridors_used,baseline_corridors,downtime_reduction_pct,multi_dept_corridors,standalone_blocks,integration_requests_fulfilled,integration_requests_total,week,backlog_remaining,new_emergencies_this_week
+71,24,31,61,49.2,20,10,22,31,1,24,0
+17,9,12,17,29.4,5,0,0,7,2,9,2
+9,1,7,9,22.2,2,0,1,4,3,1,2
+3,1,2,3,33.3,1,0,0,1,4,1,4

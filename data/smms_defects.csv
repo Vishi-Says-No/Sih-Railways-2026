@@ -1,0 +1,39 @@
+fault_id,date_reported,station_id,gear_type,asset_id,fault_description,priority,asset_age_years,req_clearance_mins,due_date,available_from_week,is_emergency,rly,div,direction,block_demand_date,is_block_integrated,integrated_department,enforcement_condition,use_corridor,reason_code
+SMM-440,2026-08-10,STN_A,Signal,104A,Agent every development.,ROUTINE,21,90,2026-08-31,1,False,NR,DLI,UP,2026-09-01,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-441,2026-08-27,STN_A,Signal,TC-204,Quality throughout beautiful.,ROUTINE,10,30,2026-09-17,1,False,NR,DLI,UP,2026-09-17,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-442,2026-08-29,STN_B,Track Circuit,S-12,All behavior discussion own night.,CRITICAL,2,90,2026-09-01,1,False,NR,DLI,DOWN,2026-09-01,False,,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-443,2026-08-07,STN_C,Level Crossing Gate,106B,Information last everything thank serve civil.,ROUTINE,13,90,2026-08-28,1,False,NR,DLI,UP,2026-09-01,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-444,2026-08-24,STN_C,Level Crossing Gate,TC-310,Future choice whatever from behavior.,CRITICAL,23,30,2026-08-27,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-445,2026-08-13,STN_A,Signal,104A,Grow gas enough.,ROUTINE,18,90,2026-09-03,1,False,NR,DLI,UP,2026-09-03,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-446,2026-08-14,STN_A,Signal,TC-204,Role movie win.,CRITICAL,15,45,2026-08-17,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-447,2026-08-15,STN_B,Signal,S-12,Bad fall pick those gun.,URGENT,3,45,2026-08-22,1,False,NR,DLI,DOWN,2026-09-01,True,TDMS,Flexible,False,PLANNED_MAINTENANCE
+SMM-448,2026-08-07,STN_C,Track Circuit,106B,Relate animal direction eye.,URGENT,5,30,2026-08-14,1,False,NR,DLI,UP,2026-09-01,True,TDMS,Flexible,True,PLANNED_MAINTENANCE
+SMM-449,2026-08-11,STN_C,Point Machine,TC-310,Talk term herself.,URGENT,23,90,2026-08-18,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,True,PLANNED_MAINTENANCE
+SMM-450,2026-08-12,STN_A,Track Circuit,104A,Player half have decide environment.,ROUTINE,20,90,2026-09-02,1,False,NR,DLI,UP,2026-09-02,True,TDMS,Flexible,True,PERIODIC_INSPECTION
+SMM-451,2026-08-24,STN_A,Track Circuit,TC-204,Participant commercial rock.,ROUTINE,15,30,2026-09-14,1,False,NR,DLI,UP,2026-09-14,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-452,2026-08-15,STN_B,Point Machine,S-12,Left establish understand read.,CRITICAL,6,60,2026-08-18,1,False,NR,DLI,DOWN,2026-09-01,True,TMS,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-453,2026-08-21,STN_C,Level Crossing Gate,106B,Range successful simply director.,URGENT,3,30,2026-08-28,1,False,NR,DLI,UP,2026-09-01,False,,Fixed Time Slot,True,PLANNED_MAINTENANCE
+SMM-454,2026-08-28,STN_C,Point Machine,TC-310,Source husband at.,ROUTINE,25,45,2026-09-18,1,False,NR,DLI,UP,2026-09-18,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-455,2026-08-23,STN_A,Signal,104A,Then fire pretty how trip learn.,ROUTINE,15,60,2026-09-13,1,False,NR,DLI,UP,2026-09-13,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-456,2026-08-29,STN_A,Level Crossing Gate,TC-204,Cause seat much section.,ROUTINE,10,90,2026-09-19,1,False,NR,DLI,UP,2026-09-19,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-457,2026-08-07,STN_B,Signal,S-12,Today human despite young meeting.,CRITICAL,25,30,2026-08-10,1,False,NR,DLI,DOWN,2026-09-01,False,,Flexible,False,STATUTORY_SAFETY_INSPECTION
+SMM-458,2026-08-18,STN_C,Signal,106B,Sense technology check.,ROUTINE,3,30,2026-09-08,1,False,NR,DLI,UP,2026-09-08,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-459,2026-08-25,STN_C,Track Circuit,TC-310,Society instead as high.,ROUTINE,14,60,2026-09-15,1,False,NR,DLI,UP,2026-09-15,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-460,2026-08-11,STN_A,Signal,104A,More wife team activity result.,ROUTINE,9,45,2026-09-01,1,False,NR,DLI,UP,2026-09-01,False,,Fixed Time Slot,True,PERIODIC_INSPECTION
+SMM-461,2026-08-10,STN_A,Level Crossing Gate,TC-204,Seem shoulder future fall citizen about.,ROUTINE,22,60,2026-08-31,1,False,NR,DLI,UP,2026-09-01,True,TDMS,Flexible,True,PERIODIC_INSPECTION
+SMM-462,2026-08-10,STN_B,Signal,S-12,Will seven medical blood.,URGENT,23,30,2026-08-17,1,False,NR,DLI,DOWN,2026-09-01,False,,Flexible,True,PLANNED_MAINTENANCE
+SMM-463,2026-08-22,STN_C,Level Crossing Gate,106B,Fear police participant check several much single.,ROUTINE,23,90,2026-09-12,1,False,NR,DLI,UP,2026-09-12,True,TMS,Fixed Time Slot,True,PERIODIC_INSPECTION
+SMM-464,2026-08-08,STN_C,Signal,TC-310,Truth out major born guy world.,URGENT,19,90,2026-08-15,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,True,PLANNED_MAINTENANCE
+SMM-465,2026-08-07,STN_A,Signal,104A,Dream drive note bad.,URGENT,15,60,2026-08-14,1,False,NR,DLI,UP,2026-09-01,True,TMS,Flexible,True,PLANNED_MAINTENANCE
+SMM-466,2026-08-23,STN_A,Level Crossing Gate,TC-204,Staff within mouth call process water.,CRITICAL,24,60,2026-08-26,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-467,2026-08-20,STN_B,Signal,S-12,Enter their institution deep.,CRITICAL,8,45,2026-08-23,1,False,NR,DLI,DOWN,2026-09-01,True,TMS,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-468,2026-08-25,STN_C,Level Crossing Gate,106B,Sense ready require human public health.,ROUTINE,21,30,2026-09-15,1,False,NR,DLI,UP,2026-09-15,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-469,2026-08-28,STN_C,Level Crossing Gate,TC-310,Later easy ask again network open.,CRITICAL,9,30,2026-08-31,1,False,NR,DLI,UP,2026-09-01,False,,Flexible,False,STATUTORY_SAFETY_INSPECTION
+SMM-470,2026-08-25,STN_A,Signal,104A,Audience piece director.,CRITICAL,19,30,2026-08-28,1,False,NR,DLI,UP,2026-09-01,False,,Fixed Time Slot,True,STATUTORY_SAFETY_INSPECTION
+SMM-471,2026-08-17,STN_A,Level Crossing Gate,TC-204,Teacher audience draw.,ROUTINE,15,60,2026-09-07,1,False,NR,DLI,UP,2026-09-07,False,,Flexible,True,PERIODIC_INSPECTION
+SMM-472,2026-08-26,STN_B,Track Circuit,S-12,Democrat car very number line six.,ROUTINE,25,45,2026-09-16,1,False,NR,DLI,DOWN,2026-09-16,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-473,2026-08-16,STN_C,Level Crossing Gate,106B,Couple best issue interest level.,CRITICAL,15,60,2026-08-19,1,False,NR,DLI,UP,2026-09-01,True,TDMS,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-474,2026-08-22,STN_C,Track Circuit,TC-310,Pull worker better.,ROUTINE,9,90,2026-09-12,1,False,NR,DLI,UP,2026-09-12,True,TMS,Flexible,True,PERIODIC_INSPECTION
+SMM-475,2026-08-24,STN_A,Signal,104A,Rock song body court movie.,CRITICAL,10,90,2026-08-27,1,False,NR,DLI,UP,2026-09-01,True,TDMS,Flexible,True,STATUTORY_SAFETY_INSPECTION
+SMM-476,2026-09-08,STN_A,Point Machine,TC-204,Instead everything economic.,CRITICAL,15,30,2026-09-11,2,True,NR,DLI,UP,2026-09-11,False,,Fixed Time Slot,True,EMERGENCY_REPAIR
+SMM-477,2026-09-22,STN_B,Point Machine,S-12,Kitchen technology nearly.,CRITICAL,1,45,2026-09-25,4,True,NR,DLI,DOWN,2026-09-25,False,,Fixed Time Slot,True,EMERGENCY_REPAIR
