@@ -26,15 +26,13 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
-
-from corridor_availability import compute_corridors  # noqa: E402
-from priority_model import score_tasks  # noqa: E402
-from rolling_planner import run_rolling  # noqa: E402
-from sync import sync_all, needs_resync, data_bootstrapped, is_live_mode  # noqa: E402
-from data_sources.config import sync_interval_minutes  # noqa: E402
-from data_generator import SECTIONS, LINES  # noqa: E402
-import operator_input as opin  # noqa: E402
+from src.corridor_availability import compute_corridors
+from src.priority_model import score_tasks
+from src.rolling_planner import run_rolling
+from src.sync import sync_all, needs_resync, data_bootstrapped, is_live_mode
+from src.data_sources.config import sync_interval_minutes
+from src.data_generator import SECTIONS, LINES
+import src.operator_input as opin
 
 st.set_page_config(page_title="Block Planning — Control Panel", page_icon="🚆", layout="wide")
 
@@ -195,8 +193,8 @@ with tab0:
     dept_choice = st.radio("Department reporting this fault", ["TMS — Track", "SMMS — Signal", "TDMS — Traction"],
                             horizontal=True, label_visibility="visible")
 
-    from data_generator import SECTIONS, LINES, RAILWAY, DIVISION, ENFORCEMENT_CONDITIONS, REASON_CODES, OTHER_DEPTS
-    from spatial_layer import MASTER_ASSET_MAP
+    from src.data_generator import SECTIONS, LINES, RAILWAY, DIVISION, ENFORCEMENT_CONDITIONS, REASON_CODES, OTHER_DEPTS
+    from src.spatial_layer import MASTER_ASSET_MAP
 
     st.caption(f"Rly: {RAILWAY} · Div: {DIVISION} — fixed for this control area")
 
